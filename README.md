@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  Feel free to explore my repositories — always open to collaborations 🤝
+  Feel free to explore my repositories - always open to collaborations 🤝
 </p>
 
 <p>
