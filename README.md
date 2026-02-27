@@ -30,22 +30,20 @@
 </p>
 
 <p align="center">
-  <!-- ML / AI / Data -->
+ 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&size=48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" /> <!-- Spark -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" /> 
 
-  <!-- Web -->
+  
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,django&size=48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
 
-  <!-- Big Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="48" />
 
-  <!-- Languages / Tools / OS -->
   <img src="https://skillicons.dev/icons?i=java,c,linux,ubuntu,git,github,vscode,pycharm,bash&size=48" />
 </p>
 
