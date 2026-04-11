@@ -29,6 +29,9 @@
   <b>Email</b></a> • 
   💼 <a href="https://adarshranjan.vercel.app" target="_blank">
   <b>Portfolio</b></a>
+  🔗 <a href="https://www.linkedin.com/in/adarshranjan19/" target="_blank">
+  <b>LinkedIn</b></a>
+  
 </p>
 
 
