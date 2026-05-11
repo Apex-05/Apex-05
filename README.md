@@ -14,7 +14,7 @@
   I’m passionate about building intelligent and scalable systems using 
   <br>
   <b>Machine Learning</b>, <b>Deep Learning</b>, 
-  <b>Computer Vision</b>, and <b>Big Data</b>
+  <b>Computer Vision</b>, and <b>Big Data.</b>
   <br>
   
   I enjoy working on real-world projects involving
