@@ -20,6 +20,11 @@ Open to research collaborations and open-source contributions.
 
 </div>
 
+## Featured Projects
+
+**[FreeCV](https://freecv10.vercel.app/)** &nbsp;
+Browser based resume builder and PDF editor with real time inline editing, drag and drop customization, and local first storage. Supports live template switching, resume imports, and direct PDF text editing - no backend, no account required. (*Solo side project. Still evolving.*)
+
 ## Tech Stack
 
 **AI / ML & Data Science** &nbsp;
