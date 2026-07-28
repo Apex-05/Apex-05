@@ -2,7 +2,7 @@
 
 I'm Adarsh. Most of my work is in machine learning and deep learning, with some web and systems work alongside it.
 
-Open to open-source contributions and research collaborations. If you're working on something interesting, get in touch.
+Open to open-source contributions and research collaborations.
 
 [LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
 
