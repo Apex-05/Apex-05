@@ -27,3 +27,5 @@ Lab work from my undergrad (B.Tech), left public for anyone who wants to refer t
 - [Database Systems](https://github.com/Apex-05/DBS_Sem4)
 - [Data Structures](https://github.com/Apex-05/DS_Sem3)
 - [Object-Oriented Programming](https://github.com/Apex-05/OOP_Sem3)
+
+_Tip: search my repos for `Sem3`, `Sem4`, `Sem5`, or `Sem6` to filter these by semester._
