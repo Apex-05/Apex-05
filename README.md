@@ -7,8 +7,9 @@ Open to open-source contributions and research collaborations.
 [LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
 
 ---
+### Technical Projects
 
-**[FreeCV](https://freecv10.vercel.app/)** - a browser-based resume builder and PDF editor. Real-time inline editing, drag-and-drop, local-first storage. No backend, no account. Solo side project. Repo is private for now.
+Explore my **[Technical Projects](https://adarshranjan.vercel.app/projects)**, featuring project overviews, repository links, and datasets.
 
 ---
 
