@@ -1,19 +1,12 @@
 ## Hi! Welcome
 
-I'm Adarsh. Most of my work is in machine learning and deep learning, with some web and systems work alongside it.
-
-Open to open-source contributions and research collaborations.
-
-[LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
-
----
-### Technical Projects
-
-Explore my **[Technical Projects](https://adarshranjan.vercel.app/projects)**, featuring project overviews, repository links, and datasets.
+I’m Adarsh. Find me on [LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
 
 ---
 
-### Coursework
+### Projects & Coursework
+
+[Technical Projects](https://adarshranjan.vercel.app/projects/technical) - an archive of my undergraduate work
 
 Lab work from my undergrad (B.Tech), left public for anyone who wants to refer to it.
 
