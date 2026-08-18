@@ -1,6 +1,8 @@
 ## Hi! Welcome
 
-I’m Adarsh. Find me on [LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
+I’m Adarsh aka Apex.
+
+[LinkedIn](https://www.linkedin.com/in/adarshranjan19/) · [Website](https://adarshranjan.vercel.app) · [Email](mailto:ranjanadarsh025@gmail.com)
 
 ---
 
